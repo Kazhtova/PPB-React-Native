@@ -35,3 +35,5 @@ const styles = StyleSheet.create({
   button: { backgroundColor: '#0284c7', paddingVertical: 14, paddingHorizontal: 16, borderRadius: 8 },
   buttonText: { color: '#ffffff', fontSize: 15, fontWeight: '600', textAlign: 'center' },
 });
+
+// Akhir Line
