@@ -3,6 +3,8 @@
 # dependencies
 node_modules/
 
+#koko
+
 # Expo
 .expo/
 dist/
